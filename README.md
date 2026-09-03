@@ -1,1 +1,1 @@
-# BUPC-3D-RPG
+A role playing game where students from Bicol University Polangui can interact with other students virtually using their own personal avatar, more features will be added soon, for now it's more on exploration and interaction. After the BUPC map we will expand to other campuses, where students can visit other campuses virtually and interact with other students like friends instead of personally visiting them. They can talk, play, and more.
